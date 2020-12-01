@@ -7,6 +7,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.bio-resume-wrapper{
+	display: flex;
+	justify-content: center;
+}
+
 a.bio-resume{
 	font-weight: 900;
 
@@ -25,8 +30,32 @@ a.bio-resume{
 }
 
 .projects-appnames{
-	font-size: large;
+	font-size: larger;
 	font-weight: bold;
+	border-bottom: none;
+}
+
+.projects-appnames-links{
+	display: flex;
+	justify-content: space-evenly;
+	width: 40%;
+	height: 40px;
+	margin-left: 10px;
+}
+
+a.projects-appnames-links__live{
+	text-decoration: none;
+	border-bottom: none;
+}
+
+
+
+
+a.projects-appnames-links__live{
+	font-size: smaller;
+	font-weight: 600;
+	color: #ec0606;
+	text-decoration: none;
 }
 
 .projects-appnames:hover{
