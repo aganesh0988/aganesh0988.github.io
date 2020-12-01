@@ -14,7 +14,14 @@
 
 a.bio-resume{
 	font-weight: 900;
+	color: #ec0606;
+	font-size: larger;
+	border-bottom: none;
 
+}
+a.bio-resume:hover{
+	color: black;
+	text-decoration: solid underline;
 }
 
 .fabtext{
