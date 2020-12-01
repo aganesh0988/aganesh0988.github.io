@@ -64,9 +64,9 @@ a.projects-appnames-links__live:hover{
 	text-decoration: dotted underline;
 }
 
-.projects-appnames:hover{
+/* .projects-appnames:hover{
 	color: rgb(255,0,0, .8);
-}
+} */
 
 a.projects-appnames.headers:link{
 	text-decoration: none;
