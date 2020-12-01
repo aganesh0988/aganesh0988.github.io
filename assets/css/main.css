@@ -43,19 +43,17 @@ a.bio-resume{
 	margin-left: 10px;
 }
 
-a.projects-appnames-links__live{
-	text-decoration: none;
-	border-bottom: none;
-}
-
-
-
 
 a.projects-appnames-links__live{
 	font-size: smaller;
 	font-weight: 600;
 	color: #ec0606;
 	text-decoration: none;
+	border-bottom: none;
+}
+a.projects-appnames-links__live:hover{
+	color: darkred;
+	text-decoration: dotted underline;
 }
 
 .projects-appnames:hover{
