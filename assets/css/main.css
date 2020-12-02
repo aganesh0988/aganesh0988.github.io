@@ -43,6 +43,11 @@ a.bio-resume:hover{
 	border-bottom: none;
 }
 
+.projects-appnames-li{
+	list-style-type: none;
+
+}
+
 .projects-appnames-links{
 	display: flex;
 	justify-content: space-evenly;
