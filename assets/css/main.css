@@ -101,6 +101,15 @@ a.projects-appnames.headers:hover{
 	color: black;
 }
 
+.livelink-github-buttons{
+	display: flex;
+	justify-content: center;
+	padding: 30px 0;
+
+}
+
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
